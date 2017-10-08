@@ -1,2 +1,7 @@
 01.data/train.7z
 01.data/train.csv
+01.data/test.csv
+
+01.data/test.7z
+
+02.output/StratifiedKFold.csv
